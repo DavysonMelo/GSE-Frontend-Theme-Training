@@ -1,0 +1,66 @@
+//Heading
+$h1-font-size: 4.75rem;
+$h2-font-size: 2.1875rem;
+$h3-font-size: 1.75rem;
+$h4-font-size: 1.5rem;
+$h5-font-size: 1.125rem;
+$h6-font-size: 0.875rem;
+
+h1, .h1, h1#heading1 { line-height: 4.75rem; }
+h2, .h2, h2#heading2 { line-height: 2.1875rem; }
+h3, .h3, h3#heading3 { line-height: 2rem; }
+h4, .h4, h4#heading4 { line-height: 1.75rem; }
+h5, .h5, h5#heading5 { line-height: 1.25rem; }
+h6, .h6, h6#heading6 { line-height: 1rem; }
+
+h1#headingMd1.h1-md { font-size: 2.125rem; line-height: 2.5rem; }
+h2#headingMd2.h2-md { font-size: 1.875rem; line-height: 2rem; }
+h3#headingMd3.h3-md { font-size: 1.625rem; line-height: 1.5rem; }
+h4#headingMd4.h4-md { font-size: 1.4375rem; line-height: 1.5rem; }
+h5#headingMd5.h5-md { font-size: 1.125rem; line-height: 1.25rem; }
+h6#headingMd6.h6-md { font-size: 0.875rem; line-height: 1rem; }
+
+h1#headingSm1.h1-sm{ font-size: 2rem; line-height: 2.25rem;}
+h2#headingSm2.h2-sm{ font-size: 1.8125rem; line-height: 2rem;}
+h3#headingSm3.h3-sm{ font-size: 1.625rem; line-height: 2rem;}
+h4#headingSm4.h4-sm{ font-size: 1.4375rem; line-height: 1.5rem;}
+h5#headingSm5.h5-sm{ font-size: 1.125rem; line-height: 1.25rem;}
+h6#headingSm6.h6-sm{ font-size: 0.875rem; line-height: 1rem;}
+
+//Body
+p {
+ &.p-large {
+    font-size: 1.3125rem;
+    line-height: 2rem;
+ }
+ &.p-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+&.p-small {
+    font-size: 0.8125rem;
+    line-height: 1.25rem;
+}
+&.p-xsmall {
+    font-size: 0.6875rem;
+    line-height: 1rem;
+}
+&.p-tiny {
+    font-size: 0.5625rem;
+    line-height: 0.75rem;
+}
+}
+
+//Action
+p#aLarge.a-large {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+p#aMedium.a-medium {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+p#aSmall.a-small {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}
