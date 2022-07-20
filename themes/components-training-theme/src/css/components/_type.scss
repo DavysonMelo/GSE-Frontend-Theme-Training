@@ -117,8 +117,16 @@ p#aLarge.a-large {
 p#aMedium.a-medium {
     font-size: $action-size-md;
     line-height: $action-line-height-md;
+    @include media-breakpoint-down(md) {
+        font-size: $action-size-md;
+        line-height: $action-line-height-md;
+    } 
 }
 p#aSmall.a-small {
     font-size: $action-size-sm;
     line-height: $action-line-height-sm;
+    @include media-breakpoint-down(sm) {
+        font-size: $action-size-sm;
+        line-height: $action-line-height-sm;
+    }
 }
