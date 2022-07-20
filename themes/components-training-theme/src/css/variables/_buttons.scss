@@ -44,6 +44,7 @@ $btn-link: map-deep-merge(
 			color: $white,
 		),
 		disabled: (
+			background-color: $primary-disabled,
 			box-shadow: none,
 			text-decoration: none,
 		),
@@ -54,7 +55,7 @@ $btn-link: map-deep-merge(
 $btn-lg: () !default;
 $btn-lg: map-deep-merge(
 	(
-		width: 13.75rem,
+		padding: 0.9375rem 3.125rem,
 	),
 	$btn-lg
 );
