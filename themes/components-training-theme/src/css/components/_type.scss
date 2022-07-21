@@ -1,0 +1,132 @@
+h1, .h1, h1#heading1 { 
+    line-height: $h1-line-height;
+    font-size: $h1-font-size;
+    @include media-breakpoint-down(md) {
+        font-size: $h1-font-size-md;
+        line-height: $h1-line-height-md;
+    }
+    @include media-breakpoint-down(sm) {
+        font-size: $h1-font-size-sm;
+        line-height: $h1-font-size-sm;
+    }
+}
+h2, .h2, h2#heading2 { 
+    line-height: $h2-line-height;
+    font-size: $h2-font-size;
+    @include media-breakpoint-down(md) {
+        font-size: $h2-font-size-md;
+        line-height: $h2-line-height-md;
+    }
+    @include media-breakpoint-down(sm) {
+        font-size: $h2-font-size-sm;
+        line-height: $h2-line-height-sm;
+    }
+}
+h3, .h3, h3#heading3 { 
+    line-height: $h3-line-height;
+    font-size: $h3-font-size;
+    @include media-breakpoint-down(md) {
+        font-size: $h3-font-size-md;
+        line-height: $h3-line-height-md;
+    }
+    @include media-breakpoint-down(sm) {
+        font-size: $h3-font-size-sm;
+        line-height: $h3-line-height-sm;
+    }
+}
+h4, .h4, h4#heading4 { 
+    line-height: $h4-line-height;
+    font-size: $h4-font-size;
+    @include media-breakpoint-down(md) {
+        font-size: $h4-font-size-md;
+        line-height: $h4-line-height-md;
+    }
+    @include media-breakpoint-down(sm) {
+        font-size: $h4-font-size-sm;
+        line-height: $h4-line-height-sm;
+    }
+}
+h5, .h5, h5#heading5 { 
+    line-height: $h5-line-height;
+    font-size: $h5-font-size;
+    @include media-breakpoint-down(md) {
+        font-size: $h5-font-size-md;
+        line-height: $h5-font-size-md;
+    }
+    @include media-breakpoint-down(sm) {
+        font-size: $h5-font-size-sm;
+        line-height: $h5-line-height-sm;
+    }
+}
+h6, .h6, h6#heading6 { 
+    line-height: $h6-line-height;
+    font-size: $h6-font-size;
+    @include media-breakpoint-down(md) {
+        font-size: $h6-font-size-md;
+        line-height: $h6-line-height-md;
+    }
+    @include media-breakpoint-down(sm) {
+        font-size: $h6-font-size-sm;
+        line-height: $h6-line-height-sm;
+    }
+}
+
+h1#headingMd1.h1-md { font-size: $h1-font-size-md; line-height: $h1-line-height-md; }
+h2#headingMd2.h2-md { font-size: $h2-font-size-md; line-height: $h2-line-height-md; }
+h3#headingMd3.h3-md { font-size: $h3-font-size-md; line-height: $h3-line-height-md; }
+h4#headingMd4.h4-md { font-size: $h4-font-size-md; line-height: $h4-line-height-md; }
+h5#headingMd5.h5-md { font-size: $h5-font-size-md; line-height: $h5-line-height-md; }
+h6#headingMd6.h6-md { font-size: $h6-font-size-md; line-height: $h6-line-height-md; }
+
+h1#headingSm1.h1-sm{ font-size: $h1-font-size-sm; line-height: $h1-line-height-sm;}
+h2#headingSm2.h2-sm{ font-size: $h2-font-size-sm; line-height: $h2-line-height-sm;}
+h3#headingSm3.h3-sm{ font-size: $h3-font-size-sm; line-height: $h3-line-height-sm;}
+h4#headingSm4.h4-sm{ font-size: $h4-font-size-sm; line-height: $h4-line-height-sm;}
+h5#headingSm5.h5-sm{ font-size: $h5-font-size-sm; line-height: $h5-line-height-sm;}
+h6#headingSm6.h6-sm{ font-size: $h6-font-size-sm; line-height: $h6-line-height-sm;}
+
+//Body
+p {
+ &.p-large {
+    font-size: $p-size-lg;
+    line-height: $p-line-height-lg;
+ }
+ &.p-base {
+    font-size: $p-size-base;
+    line-height: $p-line-height-base;
+}
+&.p-small {
+    font-size: $p-size-sm;
+    line-height: $p-line-height-sm;
+}
+&.p-xsmall {
+    font-size: $p-size-xsm;
+    line-height: $p-line-height-xsm;
+}
+&.p-tiny {
+    font-size: $p-size-tn;
+    line-height: $p-line-height-tn;
+}
+}
+
+//Action
+p#aLarge.a-large {
+    font-size: $action-size-lg;
+    line-height: $action-line-height-lg;
+}
+p#aMedium.a-medium {
+    font-size: $action-size-md;
+    line-height: $action-line-height-md;
+    @include media-breakpoint-down(md) {
+        font-size: $action-size-md;
+        line-height: $action-line-height-md;
+    } 
+}
+p#aSmall.a-small {
+    font-size: $action-size-sm;
+    line-height: $action-line-height-sm;
+    @include media-breakpoint-down(sm) {
+        font-size: $action-size-sm;
+        line-height: $action-line-height-sm;
+    }
+}

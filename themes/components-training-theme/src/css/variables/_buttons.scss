@@ -1,0 +1,61 @@
+$btn-border-radius-lg: 0;
+$btn-border-radius: 0;
+$btn-border-radius-sm: 0;
+
+$btn-primary: () !default;
+$btn-primary: map-deep-merge(
+	(
+		background-color: $primary,
+		border-color: $primary,
+		color: $white,
+		hover: (
+			background-color: $primary-hover,
+			color: $white,
+		),
+		focus: (
+			background-color: $primary-hover,
+			color: $white,
+		),
+		active: (
+			background-color: $primary-active,
+			color: $white,
+		),
+		disabled: (
+			background-color: $primary-disabled,
+		),
+	),
+	$btn-primary
+);
+
+
+$btn-link: () !default;
+$btn-link: map-deep-merge(
+	(	
+		hover: (
+			background-color: $primary-hover,
+			color: $white,
+		),
+		focus: (
+			background-color: $primary-hover,
+			color: $white,
+		),
+		active: (
+			background-color: $primary-active,
+			color: $white,
+		),
+		disabled: (
+			background-color: $primary-disabled,
+			box-shadow: none,
+			text-decoration: none,
+		),
+	),
+	$btn-link
+);
+
+$btn-lg: () !default;
+$btn-lg: map-deep-merge(
+	(
+		padding: 0.9375rem 3.125rem,
+	),
+	$btn-lg
+);
