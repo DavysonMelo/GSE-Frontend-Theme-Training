@@ -3,7 +3,8 @@
     "workspaces": {
         "packages": [
             "modules/style-guide",
-            "themes/components-training-theme"
+            "themes/components-training-theme",
+            "themes/stylebook-theme"
         ]
     }
 }
