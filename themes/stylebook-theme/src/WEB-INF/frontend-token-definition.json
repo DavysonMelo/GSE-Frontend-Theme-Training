@@ -586,6 +586,24 @@
         "frontendTokenSets": [
           {
             "frontendTokens": [
+              {
+                "defaultValue": "Source Sans Pro",
+                "label": "font family",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "fontFamily"
+                  }
+                ],
+                "name": "fontFamily",
+                "type": "String"
+              }
+            ],
+            "label": "font family",
+            "name": "fontFamily"
+          },
+          {
+            "frontendTokens": [
                 {
                   "defaultValue": "4.75rem",
                   "label": "h1 font size",
