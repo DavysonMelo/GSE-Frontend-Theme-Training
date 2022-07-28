@@ -2,6 +2,15 @@ $btn-border-radius-lg: 0;
 $btn-border-radius: 0;
 $btn-border-radius-sm: 0;
 
+$btn-padding-x-lg: 3.125rem;
+$btn-padding-y-lg: 0.9375rem;
+
+$btn-padding-x: 1rem;
+$btn-padding-y: 0.75rem;
+
+$btn-padding-x-sm: 0.75rem;
+$btn-padding-y-sm: 0.5rem;
+
 $btn-primary: () !default;
 $btn-primary: map-deep-merge(
 	(
@@ -52,10 +61,26 @@ $btn-link: map-deep-merge(
 	$btn-link
 );
 
+$btn: () !default;
+$btn: map-deep-merge(
+	(
+		padding: $btn-padding-y $btn-padding-x,
+	),
+	$btn
+);
+
 $btn-lg: () !default;
 $btn-lg: map-deep-merge(
 	(
-		padding: 0.9375rem 3.125rem,
+		padding: $btn-padding-y-lg $btn-padding-x-lg,
 	),
 	$btn-lg
 );
+
+$btn-sm: () !default;
+$btn-sm: map-deep-merge(
+	(
+		padding: $btn-padding-y-sm $btn-padding-x-sm,
+	),
+	$btn-sm
+)

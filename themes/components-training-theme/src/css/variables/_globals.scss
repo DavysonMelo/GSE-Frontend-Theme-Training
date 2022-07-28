@@ -1,0 +1,9 @@
+$font-family-source-sans-pro: "Source Sans Pro", sans-serif;
+
+$c-body: () !default;
+$c-body: map-merge(
+	(
+		font-family: $font-family-source-sans-pro,
+	),
+	$c-body
+);
