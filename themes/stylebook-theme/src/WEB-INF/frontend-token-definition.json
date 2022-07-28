@@ -592,7 +592,7 @@
                 "mappings": [
                   {
                     "type": "cssVariable",
-                    "value": "fontFamily"
+                    "value": "font-family"
                   }
                 ],
                 "name": "fontFamily",

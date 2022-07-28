@@ -1,7 +1,7 @@
 $c-body: () !default;
 $c-body: map-merge(
 	(
-		font-family: var(--fontFamily),
+		font-family: var(--font-family),
 	),
 	$c-body
 );
