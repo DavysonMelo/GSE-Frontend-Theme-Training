@@ -1,0 +1,7 @@
+$c-body: () !default;
+$c-body: map-merge(
+	(
+		font-family: var(--fontFamily),
+	),
+	$c-body
+);
