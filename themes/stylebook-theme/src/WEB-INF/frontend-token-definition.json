@@ -1,0 +1,1354 @@
+{
+    "frontendTokenCategories": [
+      {
+        "frontendTokenSets": [
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "#F9A13B",
+                "editorType": "ColorPicker",
+                "label": "primary",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary"
+                  }
+                ],
+                "name": "primary",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#FAAF59",
+                "editorType": "ColorPicker",
+                "label": "lighten1",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-lighten-1"
+                  }
+                ],
+                "name": "lighten1",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#FBBD76",
+                "editorType": "ColorPicker",
+                "label": "lighten2",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-lighten-2"
+                  }
+                ],
+                "name": "lighten2",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#FCCC94",
+                "editorType": "ColorPicker",
+                "label": "lighten3",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-lighten-3"
+                  }
+                ],
+                "name": "lighten3",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#FDDAB2",
+                "editorType": "ColorPicker",
+                "label": "lighten4",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-lighten-4"
+                  }
+                ],
+                "name": "lighten4",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#FEE8CF",
+                "editorType": "ColorPicker",
+                "label": "lighten5",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-lighten-5"
+                  }
+                ],
+                "name": "lighten5",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#FEF6ED",
+                "editorType": "ColorPicker",
+                "label": "lighten6",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-lighten-6"
+                  }
+                ],
+                "name": "lighten6",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#EF8407",
+                "editorType": "ColorPicker",
+                "label": "darken1",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-darken-1"
+                  }
+                ],
+                "name": "darken1",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#B46306",
+                "editorType": "ColorPicker",
+                "label": "darken2",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-darken-2"
+                  }
+                ],
+                "name": "darken2",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#794304",
+                "editorType": "ColorPicker",
+                "label": "darken3",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-darken-3"
+                  }
+                ],
+                "name": "darken3",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#3D2202",
+                "editorType": "ColorPicker",
+                "label": "darken4",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-darken-4"
+                  }
+                ],
+                "name": "darken4",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#020100",
+                "editorType": "ColorPicker",
+                "label": "darken5",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-darken-5"
+                  }
+                ],
+                "name": "darken5",
+                "type": "String"
+              }
+            ],
+            "label": "primary colors",
+            "name": "primaryColors"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "#96A2AE",
+                "editorType": "ColorPicker",
+                "label": "secondary",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary"
+                  }
+                ],
+                "name": "secondary",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#ADB6C0",
+                "editorType": "ColorPicker",
+                "label": "lighten1",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-lighten-1"
+                  }
+                ],
+                "name": "lighten1",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#BFC6CD",
+                "editorType": "ColorPicker",
+                "label": "lighten2",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-lighten-2"
+                  }
+                ],
+                "name": "lighten2",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#D0D5DB",
+                "editorType": "ColorPicker",
+                "label": "lighten3",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-lighten-3"
+                  }
+                ],
+                "name": "lighten3",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#E1E4E8",
+                "editorType": "ColorPicker",
+                "label": "lighten4",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-lighten-4"
+                  }
+                ],
+                "name": "lighten4",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#F2F4F5",
+                "editorType": "ColorPicker",
+                "label": "lighten5",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-lighten-5"
+                  }
+                ],
+                "name": "lighten5",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#FBFBFC",
+                "editorType": "ColorPicker",
+                "label": "lighten6",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-lighten-6"
+                  }
+                ],
+                "name": "lighten6",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#7F8D9C",
+                "editorType": "ColorPicker",
+                "label": "darken1",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-darken-1"
+                  }
+                ],
+                "name": "darken1",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#6A7989",
+                "editorType": "ColorPicker",
+                "label": "darken2",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-darken-2"
+                  }
+                ],
+                "name": "darken2",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#546575",
+                "editorType": "ColorPicker",
+                "label": "darken3",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-darken-3"
+                  }
+                ],
+                "name": "darken3",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#424B55",
+                "editorType": "ColorPicker",
+                "label": "darken4",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-darken-4"
+                  }
+                ],
+                "name": "darken4",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#2E3740",
+                "editorType": "ColorPicker",
+                "label": "darken5",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "secondary-darken-5"
+                  }
+                ],
+                "name": "darken5",
+                "type": "String"
+              }
+            ],
+            "label": "secondary colors",
+            "name": "secondaryColors"
+          },
+          {
+              "frontendTokens": [
+                {
+                  "defaultValue": "#1B1B1B",
+                  "editorType": "ColorPicker",
+                  "label": "neutral0",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "black"
+                    }
+                  ],
+                  "name": "neutral0",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#474747",
+                  "editorType": "ColorPicker",
+                  "label": "neutral1",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-900"
+                    }
+                  ],
+                  "name": "neutral1",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#5E5E5E",
+                  "editorType": "ColorPicker",
+                  "label": "neutral2",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-800"
+                    }
+                  ],
+                  "name": "neutral2",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#757575",
+                  "editorType": "ColorPicker",
+                  "label": "neutral3",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-700"
+                    }
+                  ],
+                  "name": "neutral3",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#8C8C8C",
+                  "editorType": "ColorPicker",
+                  "label": "neutral4",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-600"
+                    }
+                  ],
+                  "name": "neutral4",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#A3A3A3",
+                  "editorType": "ColorPicker",
+                  "label": "neutral5",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-500"
+                    }
+                  ],
+                  "name": "neutral5",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#BABABA",
+                  "editorType": "ColorPicker",
+                  "label": "neutral6",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-400"
+                    }
+                  ],
+                  "name": "neutral6",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#D1D1D1",
+                  "editorType": "ColorPicker",
+                  "label": "neutral7",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-300"
+                    }
+                  ],
+                  "name": "neutral7",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#E8E8E8",
+                  "editorType": "ColorPicker",
+                  "label": "neutral8",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-200"
+                    }
+                  ],
+                  "name": "neutral8",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#F7F7F7",
+                  "editorType": "ColorPicker",
+                  "label": "neutral9",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "gray-100"
+                    }
+                  ],
+                  "name": "neutral9",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "#FFFFFF",
+                  "editorType": "ColorPicker",
+                  "label": "neutral10",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "white"
+                    }
+                  ],
+                  "name": "neutral10",
+                  "type": "String"
+                }
+              ],
+              "label": "gray scale colors",
+              "name": "grayScaleColors"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "#FCA177",
+                "editorType": "ColorPicker",
+                "label": "primary hover",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-hover"
+                  }
+                ],
+                "name": "primaryHover",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#F7890A",
+                "editorType": "ColorPicker",
+                "label": "primary active",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-active"
+                  }
+                ],
+                "name": "primaryActive",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#8C8C8C",
+                "editorType": "ColorPicker",
+                "label": "primary disabled",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "primary-disabled"
+                  }
+                ],
+                "name": "primaryDisabled",
+                "type": "String"
+              }
+            ],
+            "label": "action colors",
+            "name": "actionColors"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "#2E5AAC",
+                "editorType": "ColorPicker",
+                "label": "info",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "info"
+                  }
+                ],
+                "name": "info",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#4AAB3B",
+                "editorType": "ColorPicker",
+                "label": "success",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "success"
+                  }
+                ],
+                "name": "success",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#B95000",
+                "editorType": "ColorPicker",
+                "label": "warning",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "warning"
+                  }
+                ],
+                "name": "warning",
+                "type": "String"
+              },
+              {
+                "defaultValue": "#DA1414",
+                "editorType": "ColorPicker",
+                "label": "danger",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "danger"
+                  }
+                ],
+                "name": "danger",
+                "type": "String"
+              }
+            ],
+            "label": "status colors",
+            "name": "statusColors"
+          }
+        ],
+        "label": "colors",
+        "name": "colors"
+      },
+      {
+        "frontendTokenSets": [
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "Source Sans Pro",
+                "label": "font family",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "font-family"
+                  }
+                ],
+                "name": "fontFamily",
+                "type": "String"
+              }
+            ],
+            "label": "font family",
+            "name": "fontFamily"
+          },
+          {
+            "frontendTokens": [
+                {
+                  "defaultValue": "4.75rem",
+                  "label": "h1 font size",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "h1-font-size"
+                    }
+                  ],
+                  "name": "h1FontSize",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "2.1875rem",
+                  "label": "h2 font size",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "h2-font-size"
+                    }
+                  ],
+                  "name": "h2FontSize",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "1.175rem",
+                  "label": "h3 font size",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "h3-font-size"
+                    }
+                  ],
+                  "name": "h3FontSize",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "1.5rem",
+                  "label": "h4 font size",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "h4-font-size"
+                    }
+                  ],
+                  "name": "h4FontSize",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "1.125rem",
+                  "label": "h5 font size",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "h5-font-size"
+                    }
+                  ],
+                  "name": "h5FontSize",
+                  "type": "String"
+                },
+                {
+                  "defaultValue": "0.875rem",
+                  "label": "h6 font size",
+                  "mappings": [
+                    {
+                      "type": "cssVariable",
+                      "value": "h6-font-size"
+                    }
+                  ],
+                  "name": "h6FontSize",
+                  "type": "String"
+                }
+              ],
+              "label": "heading font size",
+              "name": "headingFontSize"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "2.125rem",
+                "label": "h1 font size md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h1-font-size-md"
+                  }
+                ],
+                "name": "h1FontSizeMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.875rem",
+                "label": "h2 font size md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h2-font-size-md"
+                  }
+                ],
+                "name": "h2FontSizeMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.625rem",
+                "label": "h3 font size md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h3-font-size-md"
+                  }
+                ],
+                "name": "h3FontSizeMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.4375rem",
+                "label": "h4 font size md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h4-font-size-md"
+                  }
+                ],
+                "name": "h4FontSizeMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.125rem",
+                "label": "h5 font size md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h5-font-size-md"
+                  }
+                ],
+                "name": "h5FontSizeMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0.875rem",
+                "label": "h6 font size md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h6-font-size-md"
+                  }
+                ],
+                "name": "h6FontSizeMD",
+                "type": "String"
+              }
+            ],
+            "label": "heading font size md",
+            "name": "headingFontSizeMD"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "2rem",
+                "label": "h1 font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h1-font-size-sm"
+                  }
+                ],
+                "name": "h1FontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "2rem",
+                "label": "h1 font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h1-font-size-sm"
+                  }
+                ],
+                "name": "h1FontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.8125rem",
+                "label": "h2 font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h2-font-size-sm"
+                  }
+                ],
+                "name": "h2FontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.625rem",
+                "label": "h3 font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h3-font-size-sm"
+                  }
+                ],
+                "name": "h3FontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.4375rem",
+                "label": "h4 font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h4-font-size-sm"
+                  }
+                ],
+                "name": "h4FontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.125rem",
+                "label": "h5 font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h5-font-size-sm"
+                  }
+                ],
+                "name": "h5FontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0.875rem",
+                "label": "h6 font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h6-font-size-sm"
+                  }
+                ],
+                "name": "h6FontSizeSM",
+                "type": "String"
+              }
+            ],
+            "label": "heading font size sm",
+            "name": "headingFontSizeSM"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "4.75rem",
+                "label": "h1 line height",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h1-line-height"
+                  }
+                ],
+                "name": "h1lineHeight",
+                "type": "String"
+              },
+              {
+                "defaultValue": "2.1875rem",
+                "label": "h2 line height",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h2-line-height"
+                  }
+                ],
+                "name": "h2lineHeight",
+                "type": "String"
+              },
+              {
+                "defaultValue": "2rem",
+                "label": "h3 line height",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h3-line-height"
+                  }
+                ],
+                "name": "h3lineHeight",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.75rem",
+                "label": "h4 line height",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h4-line-height"
+                  }
+                ],
+                "name": "h4lineHeight",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.25rem",
+                "label": "h5 line height",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h5-line-height"
+                  }
+                ],
+                "name": "h5lineHeight",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1rem",
+                "label": "h6 line height",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h6-line-height"
+                  }
+                ],
+                "name": "h6lineHeight",
+                "type": "String"
+              }
+            ],
+            "label": "heading line height",
+            "name": "headingLineHeight"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "2.5rem",
+                "label": "h1 line height md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h1-line-height-md"
+                  }
+                ],
+                "name": "h1lineHeightMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "2rem",
+                "label": "h2 line height md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h2-line-height-md"
+                  }
+                ],
+                "name": "h2lineHeightMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.75rem",
+                "label": "h3 line height md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h3-line-height-md"
+                  }
+                ],
+                "name": "h3lineHeightMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.75rem",
+                "label": "h4 line height md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h4-line-height-md"
+                  }
+                ],
+                "name": "h4lineHeightMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.25rem",
+                "label": "h5 line height md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h5-line-height-md"
+                  }
+                ],
+                "name": "h5lineHeightMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1rem",
+                "label": "h6 line height md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h6-line-height-md"
+                  }
+                ],
+                "name": "h6lineHeightMD",
+                "type": "String"
+              }
+            ],
+            "label": "heading line height md",
+            "name": "headingLineHeightMD"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "2.25rem",
+                "label": "h1 line height sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h1-line-height-sm"
+                  }
+                ],
+                "name": "h1lineHeightSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "2rem",
+                "label": "h2 line height sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h2-line-height-sm"
+                  }
+                ],
+                "name": "h2lineHeightSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "2rem",
+                "label": "h3 line height sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h3-line-height-sm"
+                  }
+                ],
+                "name": "h3lineHeightSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.5rem",
+                "label": "h4 line height sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h4-line-height-sm"
+                  }
+                ],
+                "name": "h4lineHeightSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.25rem",
+                "label": "h5 line height sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h5-line-height-sm"
+                  }
+                ],
+                "name": "h5lineHeightSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1rem",
+                "label": "h6 line height sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "h6-line-height-sm"
+                  }
+                ],
+                "name": "h6lineHeightSM",
+                "type": "String"
+              }
+            ],
+            "label": "heading line height sm",
+            "name": "headingLineHeightSM"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "1.3125rem",
+                "label": "p font size lg",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-font-size-lg"
+                  }
+                ],
+                "name": "pFontSizeLG",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1rem",
+                "label": "p font size",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-font-size"
+                  }
+                ],
+                "name": "pFontSize",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0.8125rem",
+                "label": "p font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-font-size-sm"
+                  }
+                ],
+                "name": "pFontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0.6875rem",
+                "label": "p font size xs",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-font-size-xs"
+                  }
+                ],
+                "name": "pFontSizeXS",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0.5625rem",
+                "label": "p font size tiny",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-font-size-tiny"
+                  }
+                ],
+                "name": "pFontSizeTiny",
+                "type": "String"
+              }
+            ],
+            "label": "paragraph font size",
+            "name": "paragraphFontSize"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "2rem",
+                "label": "p line height lg",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-line-height-lg"
+                  }
+                ],
+                "name": "pLineHeightLG",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.5rem",
+                "label": "p line height",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-line-height"
+                  }
+                ],
+                "name": "pFontSize",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.25rem",
+                "label": "p line sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-line-height-sm"
+                  }
+                ],
+                "name": "pFontSizeSM",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1rem",
+                "label": "p line xs",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-line-height-xs"
+                  }
+                ],
+                "name": "pFontSizeXS",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0.75rem",
+                "label": "p line tiny",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-line-height-tiny"
+                  }
+                ],
+                "name": "pFontSizeTiny",
+                "type": "String"
+              }
+            ],
+            "label": "paragraph line height",
+            "name": "paragraphLineHeight"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "1.125rem",
+                "label": "p action font size lg",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-action-font-size-lg"
+                  }
+                ],
+                "name": "pActionFontSizeLG",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1rem",
+                "label": "p action font size md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-action-font-size-md"
+                  }
+                ],
+                "name": "pActionFontSizeMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0.875rem",
+                "label": "p action font size sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-action-font-size-sm"
+                  }
+                ],
+                "name": "pActionFontSizeSM",
+                "type": "String"
+              }
+            ],
+            "label": "paragraph action font size",
+            "name": "paragraphActionFontSize"
+          },
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "1.125rem",
+                "label": "p action line height lg",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-action-line-height-lg"
+                  }
+                ],
+                "name": "pActionLineHeightLG",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.5rem",
+                "label": "p action line height md",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-action-line-height-md"
+                  }
+                ],
+                "name": "pActionLineHeightMD",
+                "type": "String"
+              },
+              {
+                "defaultValue": "1.25rem",
+                "label": "p action line height sm",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "p-action-line-height-sm"
+                  }
+                ],
+                "name": "pActionLineHeightSM",
+                "type": "String"
+              }
+            ],
+            "label": "paragraph action line height",
+            "name": "paragraphActionLineHeight"
+          }
+        ],
+        "label": "typography",
+        "name": "typography"
+      },
+      {
+        "frontendTokenSets": [  
+          {
+            "frontendTokens": [
+              {
+                "defaultValue": "0",
+                "label": "button border radius large",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "btn-border-radius-lg"
+                  }
+                ],
+                "name": "btnBorderRadiusLG",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0",
+                "label": "button border radius medium",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "btn-border-radius"
+                  }
+                ],
+                "name": "btnBorderRadius",
+                "type": "String"
+              },
+              {
+                "defaultValue": "0",
+                "label": "button border radius small",
+                "mappings": [
+                  {
+                    "type": "cssVariable",
+                    "value": "btn-border-radius-sm"
+                  }
+                ],
+                "name": "btnBorderRadiusSM",
+                "type": "String"
+              }
+            ],
+            "label": "button border radius",
+            "name": "buttonBorderRadius"
+          }
+        ],
+        "label": "buttons",
+        "name": "buttons"
+      }
+    ]
+  }
