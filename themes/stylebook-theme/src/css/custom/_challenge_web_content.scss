@@ -13,3 +13,31 @@
 .challenge-content-body p + p {
     margin-top: 2rem;
 }
+
+.asset-publisher-image {
+    width: 14.75rem;
+    height: 12.5rem;
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+    object-fit: cover;
+}
+
+.web-content-wrapper > .asset-abstract + .asset-abstract {
+    margin-left: 1rem;
+}
+
+.asset-publisher-wrapper {
+    width: 14.75rem;
+}
+
+.web-content-content-text > p:not(.web-content-content-text > p:first-child) {
+    display: none;
+}
+
+.web-content-content-text > p {
+    overflow: hidden;
+    text-overflow: clip;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
