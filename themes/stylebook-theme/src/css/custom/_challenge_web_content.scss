@@ -22,22 +22,18 @@
     object-fit: cover;
 }
 
-.web-content-wrapper > .asset-abstract + .asset-abstract {
+.journal-article-link {
+    text-decoration: none !important;
+}
+
+.web-content-wrapper > .asset-wrapper + .asset-wrapper {
     margin-left: 1rem;
 }
 
 .asset-publisher-wrapper {
-    width: 14.75rem;
+    width: 14.75rem;    
 }
 
-.web-content-content-text > p:not(.web-content-content-text > p:first-child) {
-    display: none;
-}
-
-.web-content-content-text > p {
-    overflow: hidden;
-    text-overflow: clip;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
+.content-summary {
+    color: var(--black);
 }
