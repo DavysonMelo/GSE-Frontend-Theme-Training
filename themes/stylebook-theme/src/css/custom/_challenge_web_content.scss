@@ -13,3 +13,27 @@
 .challenge-content-body p + p {
     margin-top: 2rem;
 }
+
+.asset-publisher-image {
+    width: 14.75rem;
+    height: 12.5rem;
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+    object-fit: cover;
+}
+
+.journal-article-link {
+    text-decoration: none !important;
+}
+
+.web-content-wrapper > .asset-wrapper + .asset-wrapper {
+    margin-left: 1rem;
+}
+
+.asset-publisher-wrapper {
+    width: 14.75rem;    
+}
+
+.content-summary {
+    color: var(--black);
+}
